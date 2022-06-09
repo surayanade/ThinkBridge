@@ -2,7 +2,7 @@
 
 **Question 1:** For Test cases - attached 'ShopBridge_TestCases.xlsx'
 
-**Question 2: **
+**Question 2:**
 Compatibility Test Code
 1. Please unzip the 'ThinkBridgeProject.zip' file as well as unzip 'selenium-2.53.1.zip' file
 2. 'selenium-2.53.1' folder has the latest chromeDriver.exe in it
